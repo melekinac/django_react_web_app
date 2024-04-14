@@ -1,3 +1,7 @@
+   Admin
+UserName:test
+Password:123456
+
 Projenin temel amacı, bir toplantı odasının rezervasyonlarını yönetmek, kullanıcıların belirli saatler arasında odayı rezerve etmelerine ve admin kullanıcıların rezervasyonları yönetmelerine olanak sağlamak gibi görünüyor. İşte bu projenin genel taslağı:
 
 Kullanıcı Yönetimi:
